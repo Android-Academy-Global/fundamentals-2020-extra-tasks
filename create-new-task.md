@@ -10,7 +10,7 @@ You will learn:
 
 The process of creating a new task for Android Academy is straight forward.
 First of all you need a great idea and some free time.
-1. Start with cloning [Android Academy Repository](https://github.com/Android-Academy-Global/Android-Academy-Global.github.io);
+1. Start with cloning [Android Academy 2020 extra tasks repository](https://github.com/Android-Academy-Global/fundamentals-2020-extra-tasks);
 2. Crate a new branch for your task.
 2. Go to **tasks** folder and create a new .md file by coping **template.md**;
 3. Change title and author(use your telegram name);
@@ -18,7 +18,7 @@ First of all you need a great idea and some free time.
 4. Add link to 
 5. Open pull request to **master** branch;
 6. Ask other mentors to review you task.
-7. Once you got all required approves, ping @VadzimV to merge it.
+7. Once you got all required approves, merge it.
 
 ### Definition of done
 
