@@ -15,7 +15,8 @@ First of all you need a great idea and some free time.
 2. Go to **tasks** folder and create a new .md file by coping **template.md**;
 3. Change title and author(use your telegram name);
 4. Fill-up gaps using hints from template;
-4. Add link to 
+4. Add link to your telegram in the header
+4. Change title
 5. Open pull request to **master** branch;
 6. Ask other mentors to review you task.
 7. Once you got all required approves, merge it.
