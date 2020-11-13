@@ -19,7 +19,7 @@ First of all you need a great idea and some free time.
 4. Change title
 5. Open pull request to **master** branch;
 6. Ask other mentors to review you task.
-7. Once you got all required approves, merge it.
+7. When you get 5 approves from the other mentors - merge it.
 
 ### Definition of done
 
