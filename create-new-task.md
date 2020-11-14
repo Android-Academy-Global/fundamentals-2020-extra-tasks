@@ -14,16 +14,14 @@ First of all you need a great idea and some free time.
 2. Crate a new branch for your task.
 2. Go to **tasks** folder and create a new .md file by coping **template.md**;
 3. Change title and author(use your telegram name);
-4. Fill-up gaps using hints from template;
-4. Add link to your telegram in the header
-4. Change title
+4. Fill-up gaps using hints from template, you can use any language;
 5. Open pull request to **master** branch;
 6. Ask other mentors to review you task.
 7. When you get 5 approves from the other mentors - merge it.
 
 ### Definition of done
 
-**If you're reviving** the task, please make sure that **all** following requirements are met!
+**If you're reviving** the task, please make sure that https://github.com/Android-Academy-Global/fundamentals-2020-extra-tasks**all** following requirements are met!
 
 * Does task seem clear for you?
 * Does **Useful links** contain all needed links to theory? Is it enough to complete the task?
